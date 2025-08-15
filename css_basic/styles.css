@@ -8,7 +8,7 @@ body {
 main{
     flex-direction: row;
     flex:auto;
-    background-color: #d8f7de;
+    background-color: #74947d;
 }
 article{
     flex: 2;
@@ -21,11 +21,11 @@ aside{
 }
 #comment{
     border-radius: 2cqmin;
-    background-color: #6db390;
+    background-color: #17e67e;
 }
 
 header, footer {
-  background-color: #56603a;
+  background-color: #a7d625;
   color: white;
   padding: 1rem;
 }
